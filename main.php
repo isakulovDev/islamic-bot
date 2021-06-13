@@ -775,7 +775,7 @@ bot('sendvideo',[
 'video'=>"https://t.me/NAMOZ/3072",
 'caption'=>"Qur'on o'qiganda ko'ziga yosh kelsa!
 
-Yangiliklar: @git7i_blog",
+Yangiliklar: ",
 ]);
 }
 
@@ -788,7 +788,7 @@ bot('sendvideo',[
 'video'=>"https://t.me/NAMOZ/3071",
 'caption'=>"Shaytonning hiylalari☝️
 
-Yangiliklar: @git7i_blog",
+Yangiliklar: ",
 ]);
 }
 
@@ -801,7 +801,7 @@ bot('sendvideo',[
 'video'=>"https://t.me/NAMOZ/3068",
 'caption'=>"Jamoat bilan o'qilgan Bomdod namozi
 
-Yangiliklar: @git7i_blog",
+Yangiliklar: ",
 ]);
 }
 
@@ -815,7 +815,7 @@ bot('sendvideo',[
 
 Unutmaylik!
 
-Yangiliklar: @git7i_blog",
+Yangiliklar: ",
 ]);
 }
 
